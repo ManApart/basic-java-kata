@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kata",
+            "request": "launch",
+            "mainClass": "sample.Kata",
+            "projectName": "java-vscode"
+        }
+    ]
+}
